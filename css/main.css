@@ -2,6 +2,37 @@ header {
     background-color: #8A2D2D;
 }
 
+li a {
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li {
+    margin: 0;
+    padding-top:0px;
+    padding-left: 120px;
+    padding-right: 100px;
+  display: inline;
+  font-size: 20px;
+}
+
+.logotwo {
+    margin: 0;
+    padding-top:0px;
+    padding-left: 450px;
+    padding-right: 100px;
+}
+
+.bakery-wide {
+    width: 1000px;
+    height: 600px;
+    margin: 0;
+    padding-top:0px;
+    padding-left: 235px;
+    padding-right: 100px;
+
+}
+
 footer {
     background-color: #3D2208;
     color: #996848;
