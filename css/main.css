@@ -1,3 +1,4 @@
+
 header {
     background-color: #8A2D2D;
 }
@@ -7,7 +8,7 @@ header {
     height: 150px;
     margin: 0;
     padding-top: 20px;
-    padding-left: 650px;
+    padding-left: 100px;
     padding-right: 100px;
 }
 
@@ -27,7 +28,7 @@ nav ul li {
 
 .logotwo {
     margin: 0;
-    padding-left: 450px;
+    padding-left: 150px;
     padding-right: 100px;
 }
 
@@ -35,9 +36,13 @@ nav ul li {
     width: 1000px;
     height: 600px;
     margin: 0;
-    padding-left: 235px;
+    padding-left: 150px;
     padding-right: 100px;
 
+}
+
+body {
+    text-align: center
 }
 
 footer {
@@ -45,4 +50,6 @@ footer {
     background-color: #3D2208;
     color: #996848;
     text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
 }
