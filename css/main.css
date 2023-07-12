@@ -1,4 +1,7 @@
 
+html {
+    background-color: #8A2D2D;
+}
 header {
     background-color: #8A2D2D;
 }
@@ -42,8 +45,12 @@ nav ul li {
 }
 
 body {
-    text-align: center
+    text-align: center;
+    background-color: white;
 }
+
+
+
 
 footer {
     height: 75px;
