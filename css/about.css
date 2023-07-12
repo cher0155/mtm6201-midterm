@@ -53,11 +53,22 @@ nav ul li:hover{
 body {
     text-align: center;
     background-color: white;
+    font-size: 20px;
+    color:#8A2D2D;
 }
 
 .widebakerytwo {
+    margin: auto;
+    padding-top: 20px;
     height: 500px;
     width: 850px
+}
+
+article {
+    margin: 20px;
+    padding-right: 100px;
+    padding-left: 150px;
+    font-style: italic;
 }
 
 footer {
