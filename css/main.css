@@ -53,3 +53,7 @@ footer {
     font-size: 20px;
     padding-top: 10px;
 }
+
+.text {
+    color:#7e0505;
+    font-style:italic; }
