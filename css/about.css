@@ -31,7 +31,8 @@ nav ul li {
 
 
 body {
-    text-align: center
+    text-align: center;
+    background-color: white;
 }
 
 footer {
