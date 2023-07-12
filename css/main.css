@@ -2,6 +2,13 @@ header {
     background-color: #8A2D2D;
 }
 
+.logoone {
+    width: 100%;
+    margin: 0;
+    padding-left: 575px;
+    padding-right: 100px;
+}
+
 li a {
     color: black;
     text-decoration: none;
@@ -10,7 +17,7 @@ li a {
 nav ul li {
     margin: 0;
     padding-top:0px;
-    padding-left: 120px;
+    padding-left: 90px;
     padding-right: 100px;
   display: inline;
   font-size: 20px;
@@ -18,7 +25,6 @@ nav ul li {
 
 .logotwo {
     margin: 0;
-    padding-top:0px;
     padding-left: 450px;
     padding-right: 100px;
 }
@@ -27,7 +33,6 @@ nav ul li {
     width: 1000px;
     height: 600px;
     margin: 0;
-    padding-top:0px;
     padding-left: 235px;
     padding-right: 100px;
 
