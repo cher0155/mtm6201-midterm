@@ -76,6 +76,39 @@ body {
     list-style: none;
 }
 
+.cakepicture {
+width: 500px;
+height: 300px;
+}
+
+.pasteries {
+width: 500px;
+height: 300px;
+}
+
+.gelato {
+    width: 500px;
+    height: 300px;
+    }
+
+.drinks {
+width: 500px;
+height: 300px;
+padding-right: 250px;
+}
+
+.beverages li {
+    padding-right: 250px;
+}
+
+.beverages h2 {
+    padding-right: 250px;
+}
+
+li {
+    list-style: none;
+}
+
 footer {
     height: 75px;
     background-color: #3D2208;
