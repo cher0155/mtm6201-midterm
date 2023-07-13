@@ -44,7 +44,7 @@ nav ul li {
   font-size: 20px;
 }
 
- /* Text animation when mouse hovers*/
+ /* Text animation when mouse hovers because I've always wanted to do that and I find it's give a nice & clean touch on the website*/
  nav ul li:hover{
     opacity: 0.1;
     transition: 0.3s;
