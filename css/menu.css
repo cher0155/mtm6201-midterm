@@ -55,12 +55,23 @@ body {
     background-color: white;
 }
 
+.heading p {
+    color:#8A2D2D;
+    font-style: italic;
+}
+
 .menu-banner {
     width: 1000px;
     height: 500px;
     margin: 0;
     padding-left: 100px;
     padding-right: 100px;
+}
+
+.menu p {
+    color: #8A2D2D;
+    font-style: italic;
+    margin:20px;
 }
 
 .menu {
@@ -87,9 +98,9 @@ height: 300px;
 }
 
 .gelato {
-    width: 500px;
-    height: 300px;
-    }
+width: 500px;
+height: 300px;
+}
 
 .drinks {
 width: 500px;
@@ -107,6 +118,8 @@ padding-right: 250px;
 
 li {
     list-style: none;
+    color:#8A2D2D;
+    font-style:italic;
 }
 
 footer {
