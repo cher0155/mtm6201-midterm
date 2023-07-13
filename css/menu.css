@@ -55,6 +55,27 @@ body {
     background-color: white;
 }
 
+.menu-banner {
+    width: 1000px;
+    height: 500px;
+    margin: 0;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+    "cake pasteries"
+    "gelato beverages";
+    list-style:none;
+}
+
+.cake {
+    list-style: none;
+}
+
 footer {
     height: 75px;
     background-color: #3D2208;
